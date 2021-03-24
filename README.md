@@ -4,7 +4,7 @@ Un jeu de serpent realiser avec JS
 # Comment lancer le jeux
 
   - Téléchargez le dépot
-  - lancez le fichier index.htlm
+  - lancez le fichier index.html
 
 # Comment jouer
 
