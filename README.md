@@ -1,5 +1,5 @@
 # Snake
-Un jeu de serpent realiser avec JS 
+Un jeu de serpent realisé avec JS 
 
 # Comment lancer le jeux
 
